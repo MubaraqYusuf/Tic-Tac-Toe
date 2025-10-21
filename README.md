@@ -109,7 +109,7 @@ Scores and turns are handled automatically by `game.js` and saved with `storage.
 
 ## 👨‍💻 Author
 
-**By:** [@sunshine_wrlld](https://github.com/sunshine-wrlld)  
+**By:** (sunshine_wrlld)  
 💬 _“A creative front-end student developer exploring interactive web apps.”_
 
 ---
