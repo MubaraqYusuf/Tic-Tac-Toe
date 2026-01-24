@@ -6,7 +6,7 @@ All scores are saved automatically using your browser’s **localStorage**.
 
 ---
 
-# 📸 Screenshot
+## 📸 Screenshot
 <img width="602" height="524" alt="Screenshot 2026-01-24 164945" src="https://github.com/user-attachments/assets/5791923f-e38d-40b5-a526-8cb4ec1d5372" />
 
 ---
